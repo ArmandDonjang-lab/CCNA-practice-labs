@@ -35,7 +35,7 @@ Les VLANs permettent d'améliorer :
 
 ## Topologie
 
-![Topologie](images\Topologie_VLAN.png)
+![Topologie](images/Topologie_VLAN.png)
 
 ---
 
@@ -63,7 +63,7 @@ Les VLANs permettent d'améliorer :
 
 ### Représentation de la topologie sur Packet Tracer
 
-![Topologie](images\Topologie_cisco.PNG)
+![Topologie](images/Topologie_cisco.PNG)
 
 ---
 
@@ -118,4 +118,4 @@ SW1(config-if-range)#exit
 ```bash
 SW1#show vlan brief
 ```
-![Capture](images\Capture.PNG)
+![Capture](images/Capture.PNG)
