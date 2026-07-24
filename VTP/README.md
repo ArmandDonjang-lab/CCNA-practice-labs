@@ -1,10 +1,4 @@
 # MISE EN PRATIQUE DU VTP
-[![Packet Tracer](https://img.shields.io/badge/📥-Packet%20Tracer-blue?style=for-the-badge)](./VTP.pkt)
-
-[![Documentation](https://img.shields.io/badge/📄-Documentation-success?style=for-the-badge)](./CAHIER DE CHARGE.pdf)
-
-## Topologie
-![Topologie](images/Topologie.png)
 
 ## Description
 
