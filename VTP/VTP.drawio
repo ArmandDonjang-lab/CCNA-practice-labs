@@ -1,0 +1,40 @@
+<mxfile host="Electron">
+  <diagram name="Page-1" id="5zB9uJ0BxgPagtF-pD2B">
+    <mxGraphModel dx="860" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nQ0gjlFY7_YZnQHJNsO_-1" parent="1" style="sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.rect;prIcon=l2_switch;fillColor=#FAFAFA;strokeColor=#005073;" value="&lt;b&gt;SW1&lt;/b&gt;" vertex="1">
+          <mxGeometry height="50" width="50" x="164" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="nQ0gjlFY7_YZnQHJNsO_-5" edge="1" parent="1" source="nQ0gjlFY7_YZnQHJNsO_-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=oval;startFill=1;endArrow=oval;endFill=1;strokeWidth=2;" target="nQ0gjlFY7_YZnQHJNsO_-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nQ0gjlFY7_YZnQHJNsO_-2" parent="1" style="sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.rect;prIcon=l2_switch;fillColor=#FAFAFA;strokeColor=#005073;" value="&lt;b&gt;SW2&lt;/b&gt;" vertex="1">
+          <mxGeometry height="50" width="50" x="394" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="nQ0gjlFY7_YZnQHJNsO_-3" parent="1" style="sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.rect;prIcon=l2_switch;fillColor=#FAFAFA;strokeColor=#005073;" value="&lt;b&gt;SW3&lt;/b&gt;" vertex="1">
+          <mxGeometry height="50" width="50" x="614" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="nQ0gjlFY7_YZnQHJNsO_-4" edge="1" parent="1" source="nQ0gjlFY7_YZnQHJNsO_-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=oval;startFill=1;endArrow=oval;endFill=1;strokeWidth=2;" target="nQ0gjlFY7_YZnQHJNsO_-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bV6JGg3UzZHHvxC4h95T-1" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;fillColor=default;strokeColor=default;" value="VTP Server" vertex="1">
+          <mxGeometry height="30" width="81" x="148.5" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="bV6JGg3UzZHHvxC4h95T-2" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;fillColor=default;strokeColor=default;" value="VTP Client" vertex="1">
+          <mxGeometry height="30" width="74" x="382" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="bV6JGg3UzZHHvxC4h95T-3" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;fillColor=default;strokeColor=default;" value="VTP Client" vertex="1">
+          <mxGeometry height="30" width="74" x="602" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="bV6JGg3UzZHHvxC4h95T-4" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=18;fillColor=default;strokeColor=default;" value="VTP (VLAN TRUNKING PROTOCOL)" vertex="1">
+          <mxGeometry height="50" width="370" x="229" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bV6JGg3UzZHHvxC4h95T-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;textOpacity=50;" value="By Armand DONJANG" vertex="1">
+          <mxGeometry height="30" width="150" x="526" y="450" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
