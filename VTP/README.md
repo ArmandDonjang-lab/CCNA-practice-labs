@@ -1,5 +1,8 @@
 # MISE EN PRATIQUE DU VTP
 
+## Topologie
+![Topologie](images/Topologie.png)
+
 ## Description
 
 Ce projet présente une implémentation complète du protocole VTP (VLAN Trunking Protocol) réalisée avec Cisco Packet Tracer.
