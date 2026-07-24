@@ -71,11 +71,11 @@ SW1(config)# vtp mode server
 SW1(config)# vtp domain CCNA
 SW1(config)# vtp password ccn@123
 
-SW2(config)# vtp mode server
+SW2(config)# vtp mode client
 SW2(config)# vtp domain CCNA
 SW2(config)# vtp password ccn@123
 
-SW3(config)# vtp mode server
+SW3(config)# vtp mode client
 SW3(config)# vtp domain CCNA
 SW3(config)# vtp password ccn@123
 ```
